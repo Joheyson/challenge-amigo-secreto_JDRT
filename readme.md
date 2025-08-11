@@ -1,0 +1,3 @@
+## ESTADO INICIAL
+
+Iniciando proyecto
