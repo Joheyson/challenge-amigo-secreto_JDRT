@@ -1,3 +1,3 @@
-## ESTADO INICIAL
+## ESTADO DEL PROYECTO
 
-Iniciando proyecto
+Proyecto finalizado
